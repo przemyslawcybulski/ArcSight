@@ -7,7 +7,7 @@
 #      version:  1.0
 #
 #    changeLog:
-#                1.0   2020-04-08 cybulprz Initial release
+#                1.0   2020-04-08 cy3ul Initial release
 #
 # ---------------------------------------------------------------------- #
 
