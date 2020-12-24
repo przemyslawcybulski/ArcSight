@@ -2,7 +2,7 @@
 # ---------------------------------------------------------------------- #
 #    script arc-path.sh 
 #    
-#       author:  przemyslaw.cybulski@comp.com.pl
+#       author:  przemyslaw@cybulski.waw.pl
 #         type:  bash script
 #      version:  1.0
 #
